@@ -1,7 +1,7 @@
 # HTML-CSS-Project-2
 
-[link](https://html-proj-2.netlify.app/)
+[LINK](https://html-proj-2.netlify.app/)
 
-##SCREENSHOT
+## SCREENSHOT
 
 ![](./screenshot/proj-2.png)
