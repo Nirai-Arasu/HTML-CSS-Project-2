@@ -2,6 +2,6 @@
 
 [LINK](https://html-proj-2.netlify.app/)
 
-## SCREENSHOT
+### SCREENSHOT
 
 ![](./screenshot/proj-2.png)
